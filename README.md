@@ -1,4 +1,8 @@
-# python3-Bootcamp
-Python-3 - UDEMY
+# Complete-Python-3-Bootcamp
+Course Files for Complete Python 3 Bootcamp Course on Udemy
 
-In this repository I will be practicing phython and would be working on mutliple projects.
+
+Get it now for 95% off with the link:
+https://www.udemy.com/complete-python-bootcamp/?couponCode=COMPLETE_GITHUB
+
+Thanks!
